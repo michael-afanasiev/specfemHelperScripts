@@ -1,0 +1,7 @@
+# Params
+project_name test
+iteration_name agu_60_120 
+scratch_path /scratch/daint/afanasm
+lasif_path /project/ch1/mike/global_inversion
+compiler_suite cuda.adios
+specfem_root /users/afanasm/src/codeDevelopment/specfem3d_globe
